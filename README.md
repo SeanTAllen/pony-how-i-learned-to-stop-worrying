@@ -27,3 +27,8 @@ Sean T. Allen explains what makes Pony different from other languages, the types
 
 - [Trash Day paper](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-maas.pdf)
 - [ORCA paper](https://www.ponylang.org/media/papers/OGC.pdf)
+
+## Additonal References
+
+- [Why we used Pony to write Wallaroo](https://blog.wallaroolabs.com/2017/10/why-we-used-pony-to-write-wallaroo/)
+
