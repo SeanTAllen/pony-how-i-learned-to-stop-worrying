@@ -10,8 +10,8 @@ Sean T. Allen explains what makes Pony different from other languages, the types
 
 ## Versions of this talk
 
-- QCon NY 2017 - [Overview](https://www.monkeysnatchbanana.com/2017/09/02/qcon-ny-pony/) [Slides](https://speakerdeck.com/seantallen/pony-how-i-learned-to-stop-worrying-and-embrace-an-unproven-technology) [Video](https://www.infoq.com/presentations/pony-wallaroo)
-- Polyconf 2017 - [Overview](https://www.monkeysnatchbanana.com/2017/08/19/polyconf17-why-pony/) [Slides](https://speakerdeck.com/seantallen/why-pony) [Video](https://www.youtube.com/watch?v=0XFhTrtOGK4)
+- QCon NY 2017 - [Overview](https://www.monkeysnatchbanana.com/2017/09/02/qcon-ny-pony/) | [Slides](https://speakerdeck.com/seantallen/pony-how-i-learned-to-stop-worrying-and-embrace-an-unproven-technology) | [Video](https://www.infoq.com/presentations/pony-wallaroo)
+- Polyconf 2017 - [Overview](https://www.monkeysnatchbanana.com/2017/08/19/polyconf17-why-pony/) | [Slides](https://speakerdeck.com/seantallen/why-pony) | [Video](https://www.youtube.com/watch?v=0XFhTrtOGK4)
 - OSCON 2018 - [Slides]()
 
 ## Links
